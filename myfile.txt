@@ -1,1 +1,2 @@
 This is my new file which I have created on Git
+This is another which I need to commit my friend
